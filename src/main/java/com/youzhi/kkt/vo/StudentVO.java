@@ -15,5 +15,10 @@ public class StudentVO {
     @JsonProperty("mobile")
     private String mobile;
 
+    @JsonProperty("avatar")
+    private String avatar;
+
+    @JsonProperty("groupName")
+    private String groupName;
 
 }

@@ -23,4 +23,7 @@ public class StudentDao {
     // 手机号1
     private String mobile;
 
+    // 头像
+    private String avatar;
+
 }
